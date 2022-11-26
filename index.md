@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Main
 layout: home
 nav_order: 1
 ---
@@ -20,3 +20,20 @@ The concern expressed by many museums is that, if they return all their artifact
 This a true and legitimate concern. How do you respect the artifacts in your museums, and the cultures they come from and represent in an ethical way, and still have artifacts to show and display. 
 
 A few proposals have suggested art trades, giving peices of our art to other countries to display. Or another proposal, the home country owns the artifact, but countries like the U.S are given special permission to display them for two, five, to however many years they see fit. That way if the country of the artifacts origin asks for it's return it can be done so respectfully. 
+
+## More Info 
+
+Here are links to some articles about the ethics of artifacts and museums: 
+
+[Should Museums Return Looted Artifacts to Their Countries of Origin?]
+
+[Dozens of artifacts seized from the Metropolitan Museum of Art]
+
+[Museums and looted art: the ethical dilemma of preserving world cultures]
+
+
+[Should Museums Return Looted Artifacts to Their Countries of Origin?]: https://www.nytimes.com/2020/10/16/learning/should-museums-return-looted-artifacts-to-their-countries-of-origin.html
+[Dozens of artifacts seized from the Metropolitan Museum of Art]: https://www.cnn.com/style/article/met-museum-artifacts-seized-new-york-looting/index.html
+[Museums and looted art: the ethical dilemma of preserving world cultures]: https://www.theguardian.com/culture/2015/jun/29/museums-looting-art-artefacts-world-culture
+---
+Please click the "Survey" tab on the left to tell us what you think on this topic!
