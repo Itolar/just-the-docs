@@ -4,6 +4,10 @@ layout: home
 nav_order: 1
 ---
 ![smiley](mylogo.png){:height="300px" width="500px"}
+# About Me
+My name is Isabelle Tolar, and I am a junior in high school. This landing page is a combination of the skills I learned in my first coding class, and the information I learned in my art history class. I thought it would be important and fun to write about something I take interest in for my landing page final.
+
+---
 # Ethics of Museums 
 
 A popular discussion within the art and artifact community right now is the ethics of museums. Should they be allowed to host artifacts from other countries especially when a lot of those artifacts were stolen from their native countries? 
